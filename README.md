@@ -8,7 +8,7 @@ This repo is used to bvalidate package consumption behaviour when testing privat
 The repo will consume the internal spike package once published via ticket PAR-27:
 `@nice-digital/artifact-spike-package`
 
-and is use to verify:
+It is use to verify:
 
 - installation from the private registry
 - dependency resolution
@@ -16,4 +16,19 @@ and is use to verify:
 - CI install behaviour
 - upstream npm proxy behaviour
 
-this repo is intentionally minimal code and is **not prodcution code**.
+This repo is intentionally minimal code and is **not prodcution code**.
+
+## Dependencies used in the spike
+
+- `react`
+- `react-dom`
+- `lodash`
+- `eslint`
+- `jest`
+
+These are included to help validate pulbic npm proxy/upstream behaviours.
+
+Later in spike, the repo will also include:
+
+- internal spike package `@nice-digital/artifact-spike-package`
+- one or more existing organistional npm packages.
