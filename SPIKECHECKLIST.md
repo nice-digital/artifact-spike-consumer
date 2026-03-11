@@ -3,12 +3,12 @@
 ## 1. Baseline setup
 
 - [x] Create consumer repo structure
-- [ ] Add initial public npm dependencies (`jest`, `eslint`, `lodash`)
+- [x] Add initial public npm dependencies (`jest`, `eslint`, `lodash`)
 - [x] Create `src/index.js`
 - [x] Create `src/verify-script.js`
-- [ ] Confirm npm install works locally against normal npm registry as a baseline.
-- [ ] Record any relevant baseline behaviours
-- [ ] Create and prepate the `@nice-digital/artifact-spike-package`
+- [x] Confirm npm install works locally against normal npm registry as a baseline.
+- [x] Record any relevant baseline behaviours
+- [x] Create and prepare the `@nice-digital/artifact-spike-package` repo
 
 ## 2. Private registry configuration
 
