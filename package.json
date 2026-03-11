@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/nice-digital/artifact-spike-consumer/issues"
   },
-  "homepage": "https://github.com/nice-digital/artifact-spike-consumer#readme"
+  "homepage": "https://github.com/nice-digital/artifact-spike-consumer#readme",
+  "dependencies": {
+    "lodash": "^4.17.23",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "eslint": "^10.0.3",
+    "jest": "^30.3.0"
+  }
 }
