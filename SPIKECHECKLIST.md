@@ -12,10 +12,10 @@
 
 ## 2. Private registry configuration
 
-- [ ] Configure consumer repo to use candidate private registry
-- [ ] Confirm developer authentication flow works
-- [ ] Confirm public npm dependencies install successfully via upstream/proxy
-- [ ] Record any npm config, registry and token handling behaviour
+- [x] Configure consumer repo to use candidate private registry
+- [x] Confirm developer authentication flow works
+- [x] Confirm public npm dependencies install successfully via upstream/proxy
+- [x] Record any npm config, registry and token handling behaviour
 
 ## 3. Internal package validation
 
