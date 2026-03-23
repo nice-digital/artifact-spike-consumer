@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/nice-digital/artifact-spike-consumer#readme",
   "dependencies": {
-    "@nice-digital/artifact-spike-package": "^0.0.1",
+    "@nice-digital/artifact-spike-package": "^0.0.2",
     "lodash": "^4.17.23",
     "next": "^15.5.13",
     "react": "^19.2.4",
