@@ -19,18 +19,18 @@
 
 ## 3. Internal package validation
 
-- [ ] Publish the internal spike package @nice-digital/artifact-spike-package`
-- [ ] Add the internal spike package to artifact-spike-consumer repo.
-- [ ] Confirm the internal spike installs succesfully
-- [ ] Confirm the consumer spike repo can load and verify the internal spike package
+- [x] Publish the internal spike package @nice-digital/artifact-spike-package`
+- [x] Add the internal spike package to artifact-spike-consumer repo.
+- [x] Confirm the internal spike installs succesfully
+- [x] Confirm the consumer spike repo can load and verify the internal spike package
 
 ## 4. Versioning validation
 
-- [ ] Create a new version of package: `@nice-digital/artifact-spike-package`.
-- [ ] Publish new version of spike package
-- [ ] Confirm version update behaviour works as expected, registry should hold two versions of the spike package.
-- [ ] Update or reinstall spike package in consumer spike repo.
-- [ ] Record any issues with package resolution or version selection.
+- [x] Create a new version of package: `@nice-digital/artifact-spike-package`.
+- [x] Publish new version of spike package
+- [x] Confirm version update behaviour works as expected, registry should hold two versions of the spike package.
+- [x] Update or reinstall spike package in consumer spike repo.
+- [x] Record any issues with package resolution or version selection.
 
 ## 5. CI validation
 
