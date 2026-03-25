@@ -1,5 +1,5 @@
 {
-  "name": "artifact-spike-consumer",
+  "name": "@nice-digital/artifact-spike-consumer",
   "version": "0.0.1",
   "description": "Minimal consumer repo for registry spike work",
   "main": "index.js",
